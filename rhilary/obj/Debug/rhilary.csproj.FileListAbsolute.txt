@@ -1,0 +1,15 @@
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\bin\Debug\rhilary.exe.config
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\bin\Debug\rhilary.exe
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\bin\Debug\rhilary.pdb
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\obj\Debug\rhilary.csproj.AssemblyReference.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\obj\Debug\rhilary.csproj.CoreCompileInputs.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\obj\Debug\rhilary.exe
+C:\Users\IFRO.JP-ALUNOS\source\repos\rhilary\rhilary\obj\Debug\rhilary.pdb
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\bin\Debug\rhilary.exe.config
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\bin\Debug\rhilary.exe
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\bin\Debug\rhilary.pdb
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\obj\Debug\rhilary.csproj.AssemblyReference.cache
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\obj\Debug\rhilary.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\obj\Debug\rhilary.csproj.CoreCompileInputs.cache
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\obj\Debug\rhilary.exe
+C:\Users\2022102020020\Desktop\trabalho\rhilary\rhilary\obj\Debug\rhilary.pdb
